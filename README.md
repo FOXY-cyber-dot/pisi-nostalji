@@ -28,4 +28,4 @@ Pardus 2013'te Debian'a geçince PiSi hayatını kaybetti.
 Bu proje o nostaljiyi yaşatmak için yazıldı. 🌙
 
 ## Lisans
-GPL-3.0
+GPL-2.0
